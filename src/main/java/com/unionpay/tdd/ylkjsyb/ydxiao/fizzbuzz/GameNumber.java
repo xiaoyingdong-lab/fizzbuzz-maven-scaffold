@@ -30,10 +30,6 @@ public class GameNumber {
 	}
 	
 	private boolean isDivisable(int key) {
-<<<<<<< HEAD
 		return number % key == 0 | String.valueOf(number).contains(String.valueOf(key));
-=======
-		return number % key == 0;
->>>>>>> 7fb16bbacf9edf9301ebcdc6dad8b171562cc8a4
 	}
 }

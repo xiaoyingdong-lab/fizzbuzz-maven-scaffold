@@ -16,19 +16,28 @@ public class TddFizzBuzzTest {
 	@Test
 	public void should_show_fizz_test() {
 		isEquals("Fizz" , 3);
+<<<<<<< HEAD
 		isEquals("Fizz" , 31);
+=======
+>>>>>>> 7fb16bbacf9edf9301ebcdc6dad8b171562cc8a4
 	}
 	
 	@Test
 	public void should_show_Buzz_test() {
 		isEquals("Buzz" , 5);
+<<<<<<< HEAD
 		isEquals("Buzz" , 52);
+=======
+>>>>>>> 7fb16bbacf9edf9301ebcdc6dad8b171562cc8a4
 	}
 	
 	@Test
 	public void should_show_fizzbuzz_test() {
 		isEquals("FizzBuzz" , 15);
+<<<<<<< HEAD
 		isEquals("FizzBuzz" , 35);
+=======
+>>>>>>> 7fb16bbacf9edf9301ebcdc6dad8b171562cc8a4
 	}
 	
 	@Test
